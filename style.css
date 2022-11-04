@@ -165,7 +165,7 @@ h1 {
     margin-bottom: 0;
   }
 
-  picture {
+  .picture {
     padding: 1.5rem 0;
   }
 
@@ -189,7 +189,7 @@ h1 {
     flex-direction: column;
   }
 
-  picture {
+  .picture {
     background-image: url("images/bg-pattern-mobile.svg");
     background-size: contain;
     background-attachment: local;
