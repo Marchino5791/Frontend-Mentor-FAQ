@@ -44,7 +44,7 @@ main {
   border-radius: 2rem;
 }
 
-picture {
+.picture {
   background-image: url("images/bg-pattern-desktop.svg");
   background-size: cover;
   background-repeat: no-repeat;
