@@ -146,6 +146,12 @@ h1 {
   color: #fff;
 }
 
+@media (min-width: 1600px) {
+  html {
+    font-size: 85%;
+  }
+}
+
 @media (max-width: 1150px) {
   html {
     font-size: 65%;
